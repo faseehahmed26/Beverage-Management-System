@@ -1,0 +1,7 @@
+Model summary: 213 layers, 7026307 parameters, 0 gradients, 15.8 GFLOPs
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 1/1 [00:00<00:00,  5.51it/s]
+                 all         10        105       0.82      0.876       0.89      0.542
+           Coca Cola         10         46      0.786      0.609      0.743      0.409
+              Sprite         10          3      0.813          1      0.995      0.632
+               Pepsi         10         37       0.79      0.946      0.868      0.507
+        Mountain Dew         10         19      0.891      0.947      0.954      0.618

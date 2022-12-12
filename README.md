@@ -1,4 +1,4 @@
-# Cold-Drinks-Inventory-System
+# Beverage Management System
 
 ## **Project overview**
 
